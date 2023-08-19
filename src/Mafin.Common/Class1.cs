@@ -1,4 +1,4 @@
-namespace Mafin.Template;
+namespace Mafin.Common;
 
 /// <summary>
 /// Template class.

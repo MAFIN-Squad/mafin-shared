@@ -1,3 +1,3 @@
-# MAFIN Module Template
+# MAFIN Common Module
 
-Contains module template to be used as a baseline for any new modules related to MAFIN.
+Contains shared functionality used across MAFIN modules.

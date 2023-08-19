@@ -11,6 +11,6 @@
     <PackageReference Include="xunit.runner.visualstudio" PrivateAssets="all" IncludeAssets="runtime; build; native; contentfiles; analyzers" />
     <PackageReference Include="coverlet.collector" PrivateAssets="all" IncludeAssets="runtime; build; native; contentfiles; analyzers" />
 
-    <ProjectReference Include="..\..\src\Mafin.Template\Mafin.Template.csproj" />
+    <ProjectReference Include="..\..\src\Mafin.Common\Mafin.Common.csproj" />
   </ItemGroup>
 </Project>
