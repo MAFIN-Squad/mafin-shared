@@ -5,7 +5,7 @@
     <Description>MAFIN common functionality package</Description>
     <Authors>MAFIN Squad</Authors>
     <PackageProjectUrl>https://github.com/MAFIN-Squad</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/MAFIN-Squad/module-template</RepositoryUrl>
+    <RepositoryUrl>https://github.com/MAFIN-Squad/mafin-common</RepositoryUrl>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <Version></Version>
